@@ -1,7 +1,8 @@
 🧬 Futuristic Medical Dashboard
 A high-fidelity, Sci-Fi inspired medical monitoring interface built entirely with Python and Streamlit.
 This project demonstrates how to push the boundaries of Streamlit's UI capabilities, featuring a dark "Cyberpunk/HUD" aesthetic, custom SVG animations, and synthetic data generation for medical vitals.
-`![actual screenshot](https://flex.net/u/eyJidkk)`
+<img width="1905" height="917" alt="Снимок экрана 2026-01-08 214059" src="https://github.com/user-attachments/assets/047be604-0210-4836-8090-604759c09172" />
+
 
 (Replace the path above with your actual screenshot image)
 🚀 Overview
